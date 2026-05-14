@@ -67,7 +67,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-6">
                 <Mail className="shrink-0 text-brand-gold/70 transition-colors" size={24} />
-                <span className="text-sm leading-relaxed uppercase tracking-widest font-black">louange@yimbileno.com</span>
+                <span className="text-sm leading-relaxed uppercase tracking-widest font-black">mbanipalou2003@gmail.com</span>
               </li>
               <li className="flex items-start gap-6">
                 <Phone className="shrink-0 text-brand-gold/70 transition-colors" size={24} />
@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-20 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-12 text-[9px] font-black uppercase tracking-[0.5em] text-white/30 transition-colors">
-          <div>© {new Date().getFullYear()} YIMBILÉNO GOSPEL. FAIT À BRAZZAVILLE.</div>
+          <div>© {new Date().getFullYear()} YIMBILÉNO GOSPEL. FAIT À BRAZZAVILLE PAR MARCO.DEV .</div>
           <div className="flex space-x-16">
             <Link to="/privacy" className="hover:text-white transition-colors uppercase">Confidentialité</Link>
             <Link to="/terms" className="hover:text-white transition-colors uppercase">Mentions Légales</Link>

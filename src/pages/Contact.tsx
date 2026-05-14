@@ -60,7 +60,7 @@ export default function Contact() {
               </div>
               <div>
                 <h4 className="text-[10px] font-black uppercase tracking-[0.2em] text-brand-warm-grey/50 mb-2 transition-colors">Email</h4>
-                <p className="text-xl font-medium text-brand-warm-grey transition-colors">contact@yimbileno.com</p>
+                <p className="text-xl font-medium text-brand-warm-grey transition-colors">mbanipalou2003@gmail.com</p>
               </div>
             </div>
 
@@ -169,7 +169,7 @@ export default function Contact() {
                       type="text" 
                       value={formData.name}
                       onChange={(e) => setFormData({...formData, name: e.target.value})}
-                      placeholder="Jean Dupont"
+                      placeholder="ex: Marco ezechiel"
                       className="w-full bg-transparent border-b border-brand-gold/20 py-4 focus:border-brand-gold outline-none transition-colors text-lg font-light text-brand-warm-grey"
                     />
                   </div>

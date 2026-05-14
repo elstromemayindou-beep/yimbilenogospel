@@ -44,7 +44,7 @@ export default function Privacy() {
         <h2 className="text-xl font-bold text-brand-warm-grey uppercase mt-8">4. Vos droits</h2>
         <p>
           Conformément aux principes du RGPD, vous disposez d'un droit d'accès, de rectification et de suppression 
-          de vos données. Pour toute demande, contactez-nous à privacy@yimbileno.com.
+          de vos données. Pour toute demande, contactez-nous à mbanipalou2003@gmail.com.
         </p>
       </div>
       </div>

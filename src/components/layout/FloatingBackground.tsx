@@ -17,7 +17,7 @@ export default function FloatingBackground() {
         className="absolute inset-0 z-[-1]"
       >
         <img 
-          src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&q=80" 
+          src="/images/ebony.png" 
           alt="" 
           className="w-full h-full object-cover grayscale opacity-10"
         />
